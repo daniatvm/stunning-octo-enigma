@@ -2762,3 +2762,10 @@ h6 {
 .switch-wrap p {
   margin: 0;
 }
+
+.my-map {
+  width: 90%;
+  height: 50vh;
+  min-height: 220px;
+}
+
